@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **AI + Software Projects**  
 - 🌱 I’m currently learning **MLOps & Cloud Deployment**  
-- 📫 How to reach me: **[ایمیل خودت رو اینجا بذار]**  
+- 📫 How to reach me: **[alirezaperrotin@gmail.com]**  
 - 🌐 Portfolio: [GitHub Profile](https://github.com/bubble666-ai)
 
 ---
