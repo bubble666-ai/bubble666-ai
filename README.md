@@ -67,11 +67,10 @@ cadastral   parcel splitting · boundary computation
 
 ---
 
-### 05 / links
+### 05 / contact
 
 ```console
-web     https://alirezamgh.vercel.app/
-github  https://github.com/bubble666-ai
+mail    alirezaperrotin@gmail.com
 ```
 
 ---
