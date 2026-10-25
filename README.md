@@ -70,7 +70,7 @@ cadastral   parcel splitting · boundary computation
 ### 05 / links
 
 ```console
-web     https://alirezaperrotin.vercel.app/
+web     https://alirezamgh.vercel.app/
 github  https://github.com/bubble666-ai
 ```
 
