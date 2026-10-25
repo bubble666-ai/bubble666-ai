@@ -41,7 +41,7 @@ ops    docker · git · gcp / aws · mlops
   fingerprints and velocity. the admin dashboard explains every flag with its
   top signals, rules replay against historical data, and chargeback outcomes
   feed retraining.
-- **pixel paas** — self-hosted platform-as-a-service: template deploys, BYO-VPS
+- **paas** — self-hosted platform-as-a-service: template deploys, BYO-VPS
   provisioning over SSH, k3s workloads, live service metrics. next.js + prisma
   in front, ssh/k3s agents behind.
 - **market tooling** — solana trading bot and a chart/indicator bridge: signals
